@@ -1,0 +1,6 @@
+Honda,Accord,2019,25000,Blue,John Doe,Benjamin Sferciuc,4/21/2024 21:48:09
+Honda,Civic,2020,20000,Red,Jane Smith,Benjamin Sferciuc,4/21/2024 21:48:09
+Audi,A6,202,10000,Blue,Beniamin Sferciuc,Tony Stark,4/21/2024 21:59:21
+BMW,X6,2020,70000,mate black,Daniel Cioban,Beniamin Sferciuc,4/22/2024 
+Volvo,S90,2020,80000,Gray,Beniamin,Daniel,4/22/2024 19:12:22
+Seat,Leon,2013,7000,White,Beniamin,Iulian,4/22/2024 19:14:38

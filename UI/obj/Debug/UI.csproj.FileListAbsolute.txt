@@ -1,0 +1,14 @@
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\UI.exe.config
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\UI.exe
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\UI.pdb
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.Form1.resources
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.Properties.Resources.resources
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.exe
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.pdb
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\ConsoleApp1.exe
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\ConsoleApp1.pdb
+E:\C#\Project_Tracking_Cars\UI\bin\Debug\ConsoleApp1.exe.config
+E:\C#\Project_Tracking_Cars\UI\obj\Debug\UI.csproj.Up2Date
