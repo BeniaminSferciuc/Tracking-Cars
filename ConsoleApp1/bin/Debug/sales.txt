@@ -1,6 +1,16 @@
-Honda,Accord,2019,25000,Blue,John Doe,Benjamin Sferciuc,4/21/2024 21:48:09
-Honda,Civic,2020,20000,Red,Jane Smith,Benjamin Sferciuc,4/21/2024 21:48:09
-Audi,A6,202,10000,Blue,Beniamin Sferciuc,Tony Stark,4/21/2024 21:59:21
-BMW,X6,2020,70000,mate black,Daniel Cioban,Beniamin Sferciuc,4/22/2024 
-Volvo,S90,2020,80000,Gray,Beniamin,Daniel,4/22/2024 19:12:22
-Seat,Leon,2013,7000,White,Beniamin,Iulian,4/22/2024 19:14:38
+f93f8hsf,Audi,A6,2020,10000,Blue,null,Beniamin Sferciuc,Tony Stark,11/5/2023 14:45:00
+932rhlsc,BMW,X6,2021,70000,Mate Black,null,Daniel Cioban,Beniamin Sferciuc,9/23/2023 10:15:00
+201nfsdc,Volvo,S90,2019,80000,Gray,null,Beniamin,Daniel,8/30/2023 12:00:00
+lao392fs,Seat,Leon,2015,8000,White,null,Beniamin,Iulian,7/17/2023 16:20:00
+0239lasn,Audi,A5,2018,9000,Green,null,Steve,Abraham,6/4/2023 09:10:00
+209aml2b,Audi,A7,2022,49000,Gri,null,Steve,John,4/11/2023 11:30:00
+032jsm8s,Jaguar,XF,2017,50000,Albastru,null,Petru,Matei,3/19/2023 13:55:00
+l2plmc7b,VW,Golf 8,2020,20000,Portocaliu,null,Ovidiu,Marcu,2/25/2023 17:45:00
+dsjo02sc,Audi,R8,2020,49000,Galben,Tapiserie din piele|Volan încălzit|Pilot automat,Daniel Cioban,Beniamin Sferciuc,1/30/2023 09:00:00
+fj0lkmnc,Audi,A7,2019,20000,Albastru,Sistem de navigație GPS,Beniamin,Teofil,12/15/2022 14:20:00
+0937hlsf,Jaguar,XS,2018,20070,Auriu,Scaune încălzite|Pilot automat|Sistem de navigație GP,Beniamin,Steave,11/21/2022 18:10:00
+omfd8tmi,VW,Golf 4,2014,2400,Gri,null,Alin,Alex,10/28/2022 10:30:00
+lygz5zkf,Volvo,XC90,2019,60000,Alb,Volan încălzit|Scaune încălzite|Distronic|Sistem de navigație GP,Beniamin,Alin,5/10/2024 15:50:23
+lafad2fs,Seat,Leon,2015,7000,White,null,Beniamin,Iulian,5/10/2024 16:20:00
+lsdkfjfn,Seat,Leon,2015,6000,White,null,Beniamin,Iulian,5/11/2024 16:20:00
+9sd8f7sd,Audi,A7,2022,49000,Gri,null,Steve,John,5/11/2024 11:30:00

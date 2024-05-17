@@ -25,7 +25,5 @@ namespace ConsoleApp1
         {
             return $"Vandut: {Car}, Cumparator: {BuyerName}, Vanzator: {SellerName}, Data vanzarii: {SaleDate}";
         }
-
-
     }
 }

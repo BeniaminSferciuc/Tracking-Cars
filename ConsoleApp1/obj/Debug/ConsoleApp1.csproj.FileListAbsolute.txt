@@ -5,3 +5,10 @@ E:\C#\Project_Tracking_Cars\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyRef
 E:\C#\Project_Tracking_Cars\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 E:\C#\Project_Tracking_Cars\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\C#\Project_Tracking_Cars\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\C#\Project_Tracking_Cars_Final_Version\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

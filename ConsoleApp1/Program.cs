@@ -135,6 +135,18 @@ namespace ConsoleApp1
                 }
             } while (string.IsNullOrWhiteSpace(color));
 
+            // Validarea optiuni
+            string options;
+            do
+            {
+                Console.Write("Optiuni: ");
+                options = Console.ReadLine().Trim();
+                if (string.IsNullOrWhiteSpace(options))
+                {
+                    Console.WriteLine("Culoarea este obligatorie. Te rog să introduci un culoare valida.");
+                }
+            } while (string.IsNullOrWhiteSpace(options));
+
 
             // Validarea numelui cumpărătorului
             string buyerName;
@@ -160,7 +172,9 @@ namespace ConsoleApp1
                 }
             } while (string.IsNullOrWhiteSpace(sellerName));
 
-            SaleRecord sale = new SaleRecord(new Car(model, manufacturer, year, price, color), DateTime.Now, buyerName, sellerName);
+            string id = Car.GenerateUniqueId();
+
+            SaleRecord sale = new SaleRecord(new Car(id, model, manufacturer, year, price, color, options), DateTime.Now, buyerName, sellerName);
             salesManager.AddSale(sale);
             Console.WriteLine("Vânzare adăugată cu succes.");
         }
